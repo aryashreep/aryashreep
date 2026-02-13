@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/aryashreep/banner/main/aryashree-k8s-banner.png" width="100%"/>
+<img src="aryashree-k8s-banner.png" width="100%"/>
 
 <h1 align="center">Hi, I'm Aryashree Pritikrishna 👋</h1>
 

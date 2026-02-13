@@ -1,24 +1,10 @@
-<!--
-**aryashreep/aryashreep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- Banner -->
 <img src="banner.png" width="100%"/>
 
 <h1 align="center">Hi, I'm Aryashree Pritikrishna 👋</h1>
 
 <h3 align="center">
-Principal Architect @ LTIMindtree | LLMOps & AI Platform Engineering | DevOps, Full-Stack & Cloud Security | Kubernetes
+LLMOps & AI Platform Engineering | DevOps, Full-Stack & Cloud Security | Kubernetes
 </h3>
 
 ---
@@ -31,25 +17,25 @@ Principal Architect @ LTIMindtree | LLMOps & AI Platform Engineering | DevOps, F
 ---
 
 ## 🚀 About Me  
-I am a **Principal Architect** with **18+ years of experience** delivering enterprise-scale solutions across:
+I am a **Principal Architect** with **18+ years of experience** delivering enterprise-scale engineering solutions across:
 
 - **LLMOps & AI Platform Engineering**  
 - **Multi-Cloud Architecture (AWS, GCP, Azure)**  
 - **Kubernetes, Service Mesh, GitOps, DevSecOps**  
 - **Full-Stack Development (PHP, Node.js, Python, Go)**  
-- **Cloud Security & Zero Trust Architecture**  
-- **High-Availability Distributed Systems**  
+- **Cloud Security, Zero Trust, IAM, Governance**  
+- **High-Availability Distributed Systems & SRE**  
 
 I architect platforms that are **scalable, secure, automation-driven, and AI-augmented**.
 
 ---
 
 ## 🧠 LLMOps & AI Platform Engineering  
-🔹 Building **RAG pipelines**, vector search, embeddings, and retrieval  
-🔹 Automating LLM deployment with CI/CD, Docker, Helm, and K8s  
-🔹 Observability: Langfuse, OpenTelemetry, Prometheus, Grafana  
-🔹 Data security & PII protection  
-🔹 Hybrid LLM architectures (OpenAI, Claude, LLaMA)  
+🔹 Building **RAG pipelines**, vector search, embeddings, metadata stores  
+🔹 Automated LLM deployment using CI/CD, Docker, Helm, ArgoCD  
+🔹 Observability using **Langfuse, OpenTelemetry, Prometheus, Grafana**  
+🔹 Data privacy, PII protection, encryption & compliance  
+🔹 Hybrid LLM integrations (OpenAI, Claude, LLaMA, Ollama)  
 
 ---
 
@@ -62,7 +48,7 @@ I architect platforms that are **scalable, secure, automation-driven, and AI-aug
 <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white"/> 
 </p>
 
-### 🐳 DevOps & Containers  
+### 🐳 DevOps, SRE & Containers  
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
@@ -79,7 +65,7 @@ I architect platforms that are **scalable, secure, automation-driven, and AI-aug
 <img src="https://img.shields.io/badge/Vault-FFFFFF?logo=vault&logoColor=black"/>
 </p>
 
-### 💻 Languages  
+### 💻 Programming Languages  
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/>
@@ -90,25 +76,28 @@ I architect platforms that are **scalable, secure, automation-driven, and AI-aug
 ---
 
 ## ⭐ Featured Focus Areas  
-- Architecting **Kubernetes-first** enterprise platforms  
+- Architecting **Kubernetes-first enterprise platforms**  
 - Designing **High-Availability** & **Cloud Security** frameworks  
-- LLM-based automation + GenAI integration in enterprise  
-- Optimizing CI/CD for ultra-high-scale deployment  
-- Cloud migration & modernization expert  
+- LLM-powered automation & GenAI integrations  
+- Intelligent CI/CD pipelines for large-scale deployments  
+- Cloud modernization & migration architecture  
 
 ---
 
 ## 📊 GitHub Insights  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryashreep&show_icons=true&theme=blue-green" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryashreep&theme=blue-green" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aryashreep&theme=blue-green&hide_border=true" alt="Contribution Activity Graph" />
 </p>
 
 ---
 
-## 🐍 Contribution Graph (Snake Animation)
+## 👀 Profile Views  
 <p align="center">
-  <img src="https://github.com/aryashreep/aryashreep/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://komarev.com/ghpvc/?username=aryashreep&color=0077B5&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -121,4 +110,4 @@ I architect platforms that are **scalable, secure, automation-driven, and AI-aug
 
 ---
 
-### ⭐ If you like my work, consider giving a ⭐ to my repositories!  
+### ⭐ If you like my work, consider giving a ⭐ to my repositories!
